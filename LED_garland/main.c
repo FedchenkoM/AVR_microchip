@@ -1,3 +1,4 @@
+#define F_CPU 1000000UL
 #include <mega16a.h>
 #include <stdint.h>
 #include <delay.h>

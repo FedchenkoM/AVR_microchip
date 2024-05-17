@@ -1,3 +1,4 @@
+#define F_CPU 1000000UL
 #include <mega8.h>
 #include <delay.h>
 
